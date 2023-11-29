@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Idk anymore",
+      "image": "https://study.com/cimages/videopreview/videopreview-full/nvr97kb3js.jpg",
+      "price": 45,
+      "id": 8
     }
   ]
 }
